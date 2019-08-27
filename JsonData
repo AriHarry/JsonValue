@@ -151,8 +151,31 @@
 "ObjectId":"813",
 "ParentObjectId":"168",
 "ElementGuid":"{1BBE283B-C590-4477-8987-F6D64FF495EC}",
+"childNumber":2,
+"children":[
+{
+"name":"Collect Payment from POS Collect payments from Point of Sale made1111111",
+"value":1,
+"dataLevel":4,
+"ObjectId":"165",
+"ParentObjectId":"231",
+"ElementGuid":"{2A076377-1E8D-4c8a-8149-3E437B92055A}",
 "childNumber":1,
 "children":null,
+"Legends":null
+},
+{
+"name":"Manage Resource Development1111",
+"value":1,
+"dataLevel":4,
+"ObjectId":"171",
+"ParentObjectId":"231",
+"ElementGuid":"{32CF89F9-B775-4503-8181-7EA4A92FBE9E}",
+"childNumber":1,
+"children":null,
+"Legends":null
+}
+],
 "Legends":null
 },
 {
@@ -264,31 +287,8 @@
 "ObjectId":"813",
 "ParentObjectId":"168",
 "ElementGuid":"{1BBE283B-C590-4477-8987-F6D64FF495EC}",
-"childNumber":3,
-"children":[
-{
-"name":"Store User Details111111111111",
-"value":1,
-"dataLevel":5,
-"ObjectId":"8123",
-"ParentObjectId":"1268",
-"ElementGuid":"{1BBE283B-C590-4477-8987-F6D64FF495EC}",
 "childNumber":1,
 "children":null,
-"Legends":null
-},
-{
-"name":"Report on User Account22222222222222222",
-"value":1,
-"dataLevel":5,
-"ObjectId":"8115",
-"ParentObjectId":"1628",
-"ElementGuid":"{8231FE30-2E3C-48de-8E27-B22AFCC591CF}",
-"childNumber":1,
-"children":null,
-"Legends":null
-}
-],
 "Legends":null
 },
 {
