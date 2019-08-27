@@ -152,7 +152,83 @@
 "ParentObjectId":"168",
 "ElementGuid":"{1BBE283B-C590-4477-8987-F6D64FF495EC}",
 "childNumber":1,
+"children":[
+{
+"name":"Create Invoice",
+"value":1,
+"dataLevel":4,
+"ObjectId":"164",
+"ParentObjectId":"232",
+"ElementGuid":"{1A292B88-21F5-49c6-B170-3C5A467D9582}",
+"childNumber":1,
 "children":null,
+"Legends":null
+},
+{
+"name":"Collect Payment from POS Collect payments from Point of Sale made",
+"value":1,
+"dataLevel":4,
+"ObjectId":"165",
+"ParentObjectId":"232",
+"ElementGuid":"{2A076377-1E8D-4c8a-8149-3E437B92055A}",
+"childNumber":2,
+"children":null,
+"Legends":null
+},
+{
+"name":"Reconcile Customer Payment",
+"value":1,
+"dataLevel":4,
+"ObjectId":"166",
+"ParentObjectId":"232",
+"ElementGuid":"{307AE376-4250-4e99-B821-C8852A30721F}",
+"childNumber":3,
+"children":null,
+"Legends":null
+},
+{
+"name":"Collect Online Payment",
+"value":1,
+"dataLevel":4,
+"ObjectId":"167",
+"ParentObjectId":"232",
+"ElementGuid":"{70A3C25F-EEE8-4d2a-BFE6-01291D3025BA}",
+"childNumber":4,
+"children":null,
+"Legends":null
+},
+{
+"name":"Print & Distribute Invoice",
+"value":1,
+"dataLevel":4,
+"ObjectId":"168",
+"ParentObjectId":"232",
+"ElementGuid":"{A2914310-A54E-41b6-887A-F0A4CE246959}",
+"childNumber":5,
+"children":[
+{
+"name":"Store User Details",
+"value":1,
+"dataLevel":5,
+"ObjectId":"813",
+"ParentObjectId":"168",
+"ElementGuid":"{1BBE283B-C590-4477-8987-F6D64FF495EC}",
+"childNumber":1,
+"children":null,
+"Legends":null
+},
+{
+"name":"Report on User Account",
+"value":1,
+"dataLevel":5,
+"ObjectId":"815",
+"ParentObjectId":"168",
+"ElementGuid":"{8231FE30-2E3C-48de-8E27-B22AFCC591CF}",
+"childNumber":2,
+"children":null,
+"Legends":null
+}
+],
 "Legends":null
 },
 {
