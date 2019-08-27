@@ -145,45 +145,14 @@
 "childNumber":2,
 "children":[
 {
-"name":"Store User Details3333333333333333",
+"name":"Store User Details",
 "value":1,
 "dataLevel":5,
 "ObjectId":"813",
 "ParentObjectId":"168",
 "ElementGuid":"{1BBE283B-C590-4477-8987-F6D64FF495EC}",
 "childNumber":1,
-"children":[{
-"name":"Seek Approvals",
-"value":1,
-"dataLevel":4,
-"ObjectId":"136",
-"ParentObjectId":"5051",
-"ElementGuid":"{1713BB87-9662-4726-A5B2-92D2D7E50A59}",
-"childNumber":1,
 "children":null,
-"Legends":null
-},{
-"name":"Seek Approvals2222222222222",
-"value":1,
-"dataLevel":4,
-"ObjectId":"136",
-"ParentObjectId":"5051",
-"ElementGuid":"{1713BB87-9662-4726-A5B2-92D2D7E50A59}",
-"childNumber":1,
-"children":null,
-"Legends":null
-},{
-"name":"Seek Approvals111111",
-"value":1,
-"dataLevel":4,
-"ObjectId":"136",
-"ParentObjectId":"5051",
-"ElementGuid":"{1713BB87-9662-4726-A5B2-92D2D7E50A59}",
-"childNumber":1,
-"children":null,
-"Legends":null
-}
-],
 "Legends":null
 },
 {
